@@ -24,7 +24,7 @@ function Two() {
   };
 
   return (
-    <div style={{ background: color, width: "100%", height: "90vh" }}>
+    <div style={{ background: color, width: "100%", height: "50vh" }}>
       <p>
         I am now on X:{scale.X} and Y:{scale.Y}
       </p>
